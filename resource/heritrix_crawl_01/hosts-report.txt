@@ -1,0 +1,9 @@
+[#urls] [#bytes] [host] [#robots] [#remaining] [#novel-urls] [#novel-bytes] [#dup-by-hash-urls] [#dup-by-hash-bytes] [#not-modified-urls] [#not-modified-bytes]
+35219 2043337268 cubancigarwebsite.com 0 103320 35219 2043337268 0 0 0 0 
+21224 1173841482 www.cubancigarwebsite.com 0 0 21224 1173841482 0 0 0 0 
+11 1240 dns: 0 0 11 1240 0 0 0 0 
+5 23591 www.google.com 0 0 5 23591 0 0 0 0 
+5 37957 www.mozilla.org 0 0 5 37957 0 0 0 0 
+2 27019 www.google-analytics.com 0 0 2 27019 0 0 0 0 
+2 3719 www.paypalobjects.com 0 0 2 3719 0 0 0 0 
+1 6117 translate.google.com 1 0 1 6117 0 0 0 0 

@@ -1,0 +1,13 @@
+L+ /usr/lib/heritrix-1.14.4/jobs/SampleCrawl-20160211135214785/logs/crawl.log
+L+ /usr/lib/heritrix-1.14.4/jobs/SampleCrawl-20160211135214785/logs/runtime-errors.log
+L+ /usr/lib/heritrix-1.14.4/jobs/SampleCrawl-20160211135214785/logs/local-errors.log
+L+ /usr/lib/heritrix-1.14.4/jobs/SampleCrawl-20160211135214785/logs/uri-errors.log
+L+ /usr/lib/heritrix-1.14.4/jobs/SampleCrawl-20160211135214785/logs/progress-statistics.log
+C+ /usr/lib/heritrix-1.14.4/jobs/SampleCrawl-20160211135214785/order.xml
+C+ /usr/lib/heritrix-1.14.4/jobs/SampleCrawl-20160211135214785/seeds.txt
+R+ /usr/lib/heritrix-1.14.4/jobs/SampleCrawl-20160211135214785/hosts-report.txt
+R+ /usr/lib/heritrix-1.14.4/jobs/SampleCrawl-20160211135214785/mimetype-report.txt
+R+ /usr/lib/heritrix-1.14.4/jobs/SampleCrawl-20160211135214785/responsecode-report.txt
+R+ /usr/lib/heritrix-1.14.4/jobs/SampleCrawl-20160211135214785/seeds-report.txt
+R+ /usr/lib/heritrix-1.14.4/jobs/SampleCrawl-20160211135214785/crawl-report.txt
+R+ /usr/lib/heritrix-1.14.4/jobs/SampleCrawl-20160211135214785/processors-report.txt

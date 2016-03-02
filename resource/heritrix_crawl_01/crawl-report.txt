@@ -1,0 +1,13 @@
+Crawl Name: SampleCrawl
+Crawl Status: Finished - Ended by operator
+Duration Time: 2d23h11m18s436ms
+Total Seeds Crawled: 1
+Total Seeds not Crawled: 0
+Total Hosts Crawled: 7
+Total Documents Crawled: 56472
+Documents Crawled Successfully: 56469
+Novel Documents Crawled: 56469
+Processed docs/sec: 0.22
+Bandwidth in Kbytes/sec: 12
+Total Raw Data Size in Bytes: 3217278393 (3.0 GB) 
+Novel Bytes: 3217278393 (3.0 GB) 

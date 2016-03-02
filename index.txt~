@@ -1,0 +1,30 @@
+Index:
+1. This folder is the output file of the lucene, tika, heritrix powered search engine on tomcat.
+2. This file consists of 3 batch files: 
+   -start.sh/ stop.sh/ crawl_n_process.sh
+3. Batch files are in charging below jobs respectively:
+   -starting up its tomcat instance which pre-installed the web application
+   -stop the tomcat instance
+   -launch heritrix crawler and tika mirrorer and lucene indexer
+3. In the libs folder, there are executable jars for *.sh usage:
+   a) tika_mirrorer_00.jar	| src:$eclipse/workspace/TikaMirrorer
+   b) lucene_indexer_00.jar	| src:$eclipse/workspace/LuceneIndexer
+   c) search_webapp_00.war	| src:$eclipse/workspace/SearchWebapp
+   d) heritrix_crawler_00.jar	| src:$eclipse/workspace/HeritrixCrawler
+4. The jars accept command line argument in forms of:
+   $java -jar tika_mirrorer_00.jar "/path/project/save/heritrix/mirror" "/path/project/make/tika/mirror"
+5. The project default heritrix mirror is put at a absolute location:
+	/tmp/my_search_webapp/heritrix_crawl_01/mirror
+	/tmp/my_search_webapp/heritrix_crawl_02/mirror
+	/tmp/my_search_webapp/heritrix_crawl_03/mirror	
+	...
+	/tmp/my_search_webapp/heritrix_crawl_01/tika_mirror
+	/tmp/my_search_webapp/heritrix_crawl_02/tika_mirror
+	/tmp/my_search_webapp/heritrix_crawl_03/tika_mirror	
+	...	
+	/tmp/my_search_webapp/heritrix_crawl_01/lucene_index
+	/tmp/my_search_webapp/heritrix_crawl_02/lucene_index
+	/tmp/my_search_webapp/heritrix_crawl_03/lucene_index	
+	...	
+6. Until now(20160229), the project is runnable and not yet converted to jar/war.
+

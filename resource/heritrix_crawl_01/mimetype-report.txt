@@ -1,0 +1,13 @@
+[#urls] [#bytes] [mime-types]
+47835 2247517652 text/html
+8449 961870938 image/jpeg
+104 2923955 image/gif
+28 3250452 image/png
+13 18698 text/plain
+11 892165 application/javascript
+11 1240 text/dns
+10 622003 application/x-javascript
+4 55282 text/css
+2 35839 text/javascript
+1 55348 application/pdf
+1 34821 text/xml

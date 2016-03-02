@@ -1,0 +1,12 @@
+
+ -----===== IN-PROCESS QUEUES =====-----
+
+ -----===== READY QUEUES =====-----
+
+ -----===== SNOOZED QUEUES =====-----
+queue currentSize totalEnqueues sessionBalance lastCost (averageCost) lastDequeueTime wakeTime totalSpend/totalBudget errorCount lastPeekUri lastQueuedUri
+cubancigarwebsite.com 103320 138542 3000 0(0) 2016-02-14T13:21:44.417Z 10m19s518ms 0/-1 0 http://cubancigarwebsite.com/brand.aspx/js/brand.aspx/css/js/js/themes/base/images/Belinda_Petit_Princess_orig.jpg http://cubancigarwebsite.com/brand.aspx/js/brand.aspx/css/js/js/themes/base/images/Belinda_Petit_Princess_orig.jpg
+
+ -----===== INACTIVE QUEUES =====-----
+
+ -----===== RETIRED QUEUES =====-----
